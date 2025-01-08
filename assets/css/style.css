@@ -492,6 +492,7 @@ aside > div p i.fas.fa-tag {
   opacity: 0.2;
   font-size: 4rem;
 }
+
 .container {
   position: relative; /* Contesto per il posizionamento assoluto */
   display: inline-block; /* Adatta la larghezza al contenuto del titolo */
